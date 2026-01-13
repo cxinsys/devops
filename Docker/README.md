@@ -32,7 +32,7 @@ Docker 학습을 위한 참고 자료 및 블로그 글 소재 모음
 | 소재 | 핵심 포인트 |
 |------|-------------|
 | React/Vue 개발환경 도커로 구축하기 | `docker run -v` 볼륨 마운트로 Hot Reload 개발 |
-| 프론트엔드 개발자의 첫 Dockerfile 작성기 | node 이미지 기반 빌드 과정 |
+| 프론트엔드 개발 Dockerfile 작성기 | node 이미지 기반 빌드 과정 |
 
 ### Backend
 | 소재 | 핵심 포인트 |
